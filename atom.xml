@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://Alina92.github.io/"/>
-  <updated>2021-02-03T02:33:33.711Z</updated>
+  <updated>2021-02-05T06:02:52.270Z</updated>
   <id>http://Alina92.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://Alina92.github.io/2021/02/03/react-ant-design/"/>
     <id>http://Alina92.github.io/2021/02/03/react-ant-design/</id>
     <published>2021-02-03T02:27:00.000Z</published>
-    <updated>2021-02-03T02:33:33.711Z</updated>
+    <updated>2021-02-05T06:02:52.270Z</updated>
     
     <content type="html"><![CDATA[<h3 id="使用react-ant-design-d3-构建自己的项目"><a href="#使用react-ant-design-d3-构建自己的项目" class="headerlink" title="使用react+ant design+d3 构建自己的项目"></a>使用react+ant design+d3 构建自己的项目</h3><p>  1.先装脚手架<br><br>  注意：如果您以前create-react-app通过进行了全局安装npm install -g create-react-app，建议您使用npm uninstall -g create-react-app或卸载软件包，yarn global remove create-react-app以确保npx始终使用最新版本。</p>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">cnpm install create-react-app</span><br><span class="line">create-react-app my-app</span><br><span class="line">cd my-app</span><br><span class="line">npm start</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -33,6 +33,8 @@
       
     
     </summary>
+    
+      <category term="前端笔记" scheme="http://Alina92.github.io/categories/%E5%89%8D%E7%AB%AF%E7%AC%94%E8%AE%B0/"/>
     
     
       <category term="react" scheme="http://Alina92.github.io/tags/react/"/>
